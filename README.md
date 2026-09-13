@@ -2,7 +2,7 @@
 
 ## Open-source contributions · 开源贡献
 
-**7 merged PRs · 4 upstream projects**  
+**11 merged PRs · 4 upstream projects**  
 Contributions to **Prettier · Pillow · AIBrix · VitePress**.
 
 <!-- MERGED-CONTRIBUTIONS:START -->
@@ -15,6 +15,10 @@ Contributions to **Prettier · Pillow · AIBrix · VitePress**.
 | **[VitePress](https://github.com/vuejs/vitepress)** | Preserve queries and anchors on index-page links · 保留首页链接查询参数和锚点 | [🟣 #5436](https://github.com/vuejs/vitepress/pull/5436) |
 | **[VitePress](https://github.com/vuejs/vitepress)** | Preserve string glob ignore patterns · 正确处理字符串排除规则 | [🟣 #5435](https://github.com/vuejs/vitepress/pull/5435) |
 | **[VitePress](https://github.com/vuejs/vitepress)** | Use page locales in content loaders · 按页面语言加载内容 | [🟣 #5434](https://github.com/vuejs/vitepress/pull/5434) |
+| **[VitePress](https://github.com/vuejs/vitepress)** | Preserve page data when injecting scripts · 保留页面数据并正确编译脚本 | [🟣 #5440](https://github.com/vuejs/vitepress/pull/5440) |
+| **[VitePress](https://github.com/vuejs/vitepress)** | Watch data files outside the site root · 让目录外数据变更触发热更新 | [🟣 #5441](https://github.com/vuejs/vitepress/pull/5441) |
+| **[VitePress](https://github.com/vuejs/vitepress)** | Resolve SVG links during prefetching · 修复 SVG 链接预取崩溃 | [🟣 #5442](https://github.com/vuejs/vitepress/pull/5442) |
+| **[VitePress](https://github.com/vuejs/vitepress)** | Infer image dimensions with URL suffixes · 正确推断带查询参数和锚点的图片尺寸 | [🟣 #5443](https://github.com/vuejs/vitepress/pull/5443) |
 <!-- MERGED-CONTRIBUTIONS:END -->
 
 [View all merged contributions →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Alllleolin-max+-user%3Alllleolin-max&type=pullrequests) · [Work in progress →](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Alllleolin-max+-user%3Alllleolin-max&type=pullrequests)
