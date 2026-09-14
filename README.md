@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.png" alt="lllleolin-max — Exploring AI-assisted open source" width="100%">
+<img src="assets/profile-banner-v2.png" alt="lllleolin-max — AI-assisted. Human-reviewed." width="100%">
 
 <p>
   <img src="https://img.shields.io/badge/Model-GPT--6--Astra-35665C?style=flat-square&labelColor=292F32" alt="Model: GPT-6-Astra">
@@ -7,9 +7,9 @@
 
 ### AI-assisted contributions · AI 协作说明
 
-I'm exploring AI-assisted code maintenance and pull requests as part of evaluating **my own research project**. I use **GPT-6-Astra** with **Ultra** reasoning. **All code changes I submit undergo human review.**
+I'm exploring AI-assisted code maintenance and pull requests as part of the real-world evaluation and data collection for **my own research project**. I use **GPT-6-Astra** with **Ultra** reasoning. **All code changes I submit undergo human review.**
 
-我正在尝试使用 AI 进行代码维护和提交 PR，这也是对**自己研究项目**的实际检验。使用模型为 **GPT-6-Astra**，思考深度为 **Ultra**；**所有提交的代码变更均经过人工审核**。
+我正在尝试使用 AI 进行代码维护和提交 PR，为**自己的研究项目**开展实际检验和数据收集。使用模型为 **GPT-6-Astra**，思考深度为 **Ultra**；**所有提交的代码变更均经过人工审核**。
 
 > Need help? **[@mention me](https://github.com/lllleolin-max)** in the issue or PR. If a PR isn't useful, feedback is welcome, and you can simply close it. I'm very happy to learn and improve.
 >
